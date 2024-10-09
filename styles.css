@@ -11,10 +11,9 @@ body {
     }
     .higlight {
         color: blue;
-        font-weight: 16px;
+        font-weight: 24px;
     }
     #header {
-        color: black;
+        color: rgb(0, 221, 255);
         font-size: 24px;
     }
-    
