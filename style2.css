@@ -14,7 +14,7 @@ body {
         font-weight: 24px;
     }
     #header {
-        color: rgb(0, 221, 255);
+        color: rgb(1, 221, 255);
         font-size: 24px;
         text-align: center;
     }
@@ -23,4 +23,5 @@ body {
     }
     #user-name {
         font-size: 26px;
+        font-family: Arial, sans-serif;
     }
