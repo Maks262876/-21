@@ -16,4 +16,11 @@ body {
     #header {
         color: rgb(0, 221, 255);
         font-size: 24px;
+        text-align: center;
+    }
+    .profile.pik {
+        border-radius: 50%;
+    }
+    #user-name {
+        font-size: 26px;
     }
