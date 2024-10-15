@@ -7,5 +7,5 @@ let b = 5
 let suma = a + b
 let riznytsia = a - b
 
-console.log("Сума: " + suma)
-console.log("Різниця: " + riznytsia)
+console.log("Сума: ")
+console.log("Різниця: ")
