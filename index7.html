@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Конвертер валют</title>
+</head>
+<body>
+    <h2>Конвертер валют</h2>
+    <label>Сума: <input type="number" id="amount" placeholder="Введіть суму"></label>
+    
+    <label>Валюта:
+        <select id="currency">
+            <option value="USD">USD</option>
+            <option value="EUR">EUR</option>
+            <option value="UAH">UAH</option>
+        </select>
+    </label>
+
+    <button onclick="convertCurrency()">Конвертувати</button>
+    
+    <p id="result"></p>
+    <script src="script7.js"></script>
+</body>
+</html>
